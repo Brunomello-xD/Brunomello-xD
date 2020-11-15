@@ -13,8 +13,3 @@ I'm a **{backend, frontend and mobile}** developer. **This is the way.** :octoca
 
 ## My Git Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunomello-xD&layout=compact&show_icons=true&theme=algolia )](https://github.com/anuraghazra/github-readme-stats)
-
-## Let's Code?
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="300"/>
-</p>
