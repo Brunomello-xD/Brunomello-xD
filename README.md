@@ -10,6 +10,7 @@ I'm a **{backend, frontend and mobile}** developer. **This is the way.** :octoca
 [![React Badge](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![React Native Badge](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
 <br/>
+[![Linux Build Status](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunomello-xD&layout=compact&show_icons=true&theme=algolia )](https://github.com/anuraghazra/github-readme-stats)
 
