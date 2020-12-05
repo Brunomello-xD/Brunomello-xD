@@ -5,7 +5,7 @@
 
 ## About me
 
-<img src="https://media1.giphy.com/media/6tgOZxok7PSCs/giphy.gif?cid=ecf05e47inv9ah7iumj6ghid5qxkrud891hibijuzfkr1r33&rid=giphy.gif" in-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode" />
+<img src="https://media1.giphy.com/media/3o6ZtjqdcQfuno2WPK/giphy.gif" in-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode" />
 
 I'm a **{backend, frontend and mobile}** developer. **This is the way.** :octocat: <br />
 [![TypeScript Badge](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
