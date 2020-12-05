@@ -4,6 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-mello-14058819b/)](https://www.linkedin.com/in/bruno-mello-14058819b/)
 
 ## About me
+
+<img src="https://media1.giphy.com/media/6tgOZxok7PSCs/giphy.gif?cid=ecf05e47inv9ah7iumj6ghid5qxkrud891hibijuzfkr1r33&rid=giphy.gif" in-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode" />
+
 I'm a **{backend, frontend and mobile}** developer. **This is the way.** :octocat: <br />
 [![TypeScript Badge](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![NodeJS Badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
@@ -13,5 +16,3 @@ I'm a **{backend, frontend and mobile}** developer. **This is the way.** :octoca
 
 ## My Git Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunomello-xD&layout=compact&show_icons=true&theme=algolia )](https://github.com/anuraghazra/github-readme-stats)
-
-## Merry Christmas! :santa::christmas_tree:
