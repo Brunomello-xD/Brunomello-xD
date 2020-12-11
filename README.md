@@ -13,6 +13,6 @@ I'm a **{backend, frontend and mobile}** developer. **This is the way.** :octoca
 [![Linux Build Status](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
 
 ## My Git Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunomello-xD&layout=compact&show_icons=true&theme=algolia )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunomello-xD&layout=compact&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 
 ## Merry Christmas :santa:
