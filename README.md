@@ -2,6 +2,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Brunomello-xD)](https://github.com/Brunomello-xD)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-mello-14058819b/)](https://www.linkedin.com/in/bruno-mello-14058819b/)
+<a href="https://www.instagram.com/brunomello_o/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/brunomello_o/"/></a>
 
 ## About me
 
