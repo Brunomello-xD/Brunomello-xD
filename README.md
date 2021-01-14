@@ -21,5 +21,3 @@ I'm a **{backend, frontend and mobile}** developer. **This is the way.** :octoca
 
 ## My Git Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunomello-xD&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-## Merry Christmas :santa:
