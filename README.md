@@ -1,4 +1,4 @@
-# Hi, I'm Bruno!
+# Hi, I'm Bruno! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-mello-14058819b/)](https://www.linkedin.com/in/bruno-mello-14058819b/)
 <a href="https://api.whatsapp.com/send?phone=5519997119007&text=Ol%C3%A1%20Bruno.%20Tudo%20bem%3F" alt="WhatsApp">
@@ -10,6 +10,7 @@
 
 
 ## About me
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&#FFFFFF=white&color=2bbc8a)
 
 I'm a **{backend, frontend and mobile}** developer. **This is the way.** :octocat: <br />
 [![TypeScript Badge](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
