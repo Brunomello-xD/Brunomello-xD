@@ -1,13 +1,7 @@
 # Hi, I'm Bruno! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-mello-14058819b/)](https://www.linkedin.com/in/bruno-mello-14058819b/)
-<a href="https://api.whatsapp.com/send?phone=5519997119007&text=Ol%C3%A1%20Bruno.%20Tudo%20bem%3F" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519997119007&text=Ol%C3%A1%20Bruno.%20Tudo%20bem%3F"/>
-</a>
-<a href="https://www.instagram.com/brunomello_o/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/brunomello_o/"/>
-</a>
-
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin%20-%23007ACC.svg?&style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/bruno-mello-14058819b/)
+[![Linkedin Badge](https://img.shields.io/badge/WhatsApp%20-%23007ACC.svg?&style=flat&logo=whatsapp&logoColor=white&color=25D366)](https://api.whatsapp.com/send?phone=5519997119007)
+[![Instagram Badge](https://img.shields.io/badge/Instagram%20-%23007ACC.svg?&style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/brunomello_o/)
 
 ## About me
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
