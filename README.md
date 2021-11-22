@@ -18,7 +18,6 @@ I'm a **{backend, frontend and mobile}** developer. **This is the way.** :octoca
 [![NodeJS Badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![React Badge](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![React Native Badge](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
-[![Linux Build Status](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
 
 ## My Git Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunomello-xD&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
