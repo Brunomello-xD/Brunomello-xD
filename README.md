@@ -5,8 +5,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram%20-%23007ACC.svg?&style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/brunomello_o/)
 
 ## About me
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=007ACC)
 <br />
 ## Technologies
 
