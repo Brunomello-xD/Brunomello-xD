@@ -1,7 +1,7 @@
 # Hi, I'm Bruno! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-mello-14058819b/)](https://www.linkedin.com/in/bruno-mello-14058819b/)
-<a href="https://api.whatsapp.com/send?phone=5519997119007&text=Ol%C3%A1%20Bruno.%20Tudo%20bem%3F" alt="WhatsApp">
+<a href="https://api.whatsapp.com/send?phone=5519997119007&text=Ol%C3%A1%20Bruno.%20Tudo%20bem%3F" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519997119007&text=Ol%C3%A1%20Bruno.%20Tudo%20bem%3F"/>
 </a>
 <a href="https://www.instagram.com/brunomello_o/" alt="Instagram">
