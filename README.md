@@ -10,7 +10,8 @@
 
 
 ## About me
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&#FFFFFF=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 
 I'm a **{backend, frontend and mobile}** developer. **This is the way.** :octocat: <br />
 [![TypeScript Badge](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
