@@ -13,6 +13,7 @@
 [![TypeScript Badge](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![NodeJS Badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![React Native Badge](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
+[![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&style=flat&logo=postgresql&logoColor=white)](https://nodejs.org/en/)
 
 ## My Git Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunomello-xD&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
