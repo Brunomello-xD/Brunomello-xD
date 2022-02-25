@@ -12,7 +12,6 @@
 
 [![TypeScript Badge](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![NodeJS Badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![React Badge](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![React Native Badge](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
 
 ## My Git Stats
